@@ -17,8 +17,9 @@ Este proyecto tiene como objetivo limpiar los datos y preparar un informe que br
 
 - **Python**: Lenguaje principal para el análisis y procesamiento de datos.
 - **Pandas**: Librería utilizada para la manipulación y análisis de datos.
+- **NumPy**: Usada para realizar cálculos numéricos y manipulación de arreglos, facilitando el análisis de datos.
+- **Seaborn**: Librería empleada para crear visualizaciones efectivas y atractivas de los resultados.
 - **Matplotlib**: Librerías utilizadas para crear visualizaciones claras y efectivas de los datos.
-- **SciPy**: Usada para realizar análisis estadísticos, incluyendo la prueba de Levene para evaluar la homogeneidad de las varianzas.
 - **Jupyter Notebook**: Entorno interactivo para ejecutar y documentar el análisis.
 
 ## Flujo del Proyecto
